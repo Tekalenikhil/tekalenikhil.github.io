@@ -1,0 +1,25 @@
+.box{
+    height: 160px;
+    /* width: 100%; */
+    display: flex;
+    justify-content: space-around;
+    width: 83%;
+    align-items: center;
+    /* background-color:rgb(236, 176, 176); */
+    margin-top: 27px;
+    margin-left: 30px;
+}
+
+.box-1{
+    
+    height: 136px;
+    width: 92px;
+    padding: 37;
+    /* background-color: beige; */
+}
+.box-1 img{
+    height: 107px;
+    margin-top: 11px;
+    margin-left: 4px;
+    width: 77px;
+}
